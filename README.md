@@ -27,7 +27,7 @@
   Ampla experiência em atendimento ao público, onde desenvolvi inteligência emocional. Estou sempre envolvidos em projetos, como agora faço parte do projeto de extensão Introdução a Programação
 
 
-<h2 align="left">Conecte-se comigo:</h2>
+<h2 align="left">Entre em contato:</h2>
 <p align="left">
   <a href = "mailto:julioslcesar5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9sar-6376b02a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0ba2be?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </a>
