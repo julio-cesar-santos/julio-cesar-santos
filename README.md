@@ -22,7 +22,8 @@
 </div>
   
 <h2 align="left">Soft skills:</h2>
- Ja trabalhei muito com o público e estou sempre em projeto sendo desenvolvidos em equipe.
+  Ampla experiência em atendimento ao público, onde desenvolvi inteligência emocional. Estou sempre envolvidos em projetos, como agora faço parte do projeto de extensão Introdução a Programação
+
 
 <h2 align="left">Conecte-se comigo:</h2>
 <p align="left">
