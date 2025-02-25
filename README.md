@@ -3,7 +3,7 @@
 <h2 align="left">Sobre:</h2>
 <h4 align="left">Atualmente, sou um bacherelando em Engenharia de Software no IFPE Campus Belo Jardim. Apredendo programação a cerca de 1 ano e meio, com interesse muito grande na parte de IA e análise de dados.</h4>
 
- <p><strong> Objetivos:</strong> Concluir minha graduação e posteriormente fazer pós e mestrado. Todos os dias aprendendo uma tecnologia ou algoritmo novo para machine learning</p>
+ <p><strong> Objetivos:</strong> Concluir minha graduação e posteriormente fazer pós gradução e mestrado. Todos os dias aprendendo uma tecnologia ou algoritmo novo para machine learning</p>
 
 <h2 align="left">Github status:</h2>
 
