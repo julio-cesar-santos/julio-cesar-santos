@@ -5,7 +5,7 @@
 
 Estou graduando em engenharia de software pelo IFPE Campus Belo Jardim, desenvolvendo a prática voltado para o machine learning e o aprofundamento na linguagem de programação Python e Java, tendo experiências práticas utilizando das bibliotecas sklearn, pandas, numpy, matplotlib para fazer classificação, previsão e aprendizado reforçado dos dados.</h4>
 
- <p><strong> Objetivos:</strong> Concluir minha graduação e posteriormente fazer pós gradução e mestrado. Todos os dias aprendendo uma tecnologia ou algoritmo novo para machine learning</p>
+ <p><strong> Objetivos:</strong> Concluir minha graduação e posteriormente fazer pós gradução e mestrado.</p>
 
 <h2 align="left">Github status:</h2>
 
