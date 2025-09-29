@@ -1,11 +1,3 @@
-<h2 align="left">Github status:</h2>
-
-<div align="left">
-  <a href="https://github.com/julio-cesar-santos">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=julio-cesar-santos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julio-cesar-santos&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
 <h2 align="left">Linguagens e Ferramentas:</h2>
 
 <div style="display: inline_block">
