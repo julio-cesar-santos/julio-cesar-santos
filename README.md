@@ -17,10 +17,6 @@
   <img align="center" alt="Jupyter-Notebook" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg">
   <img align="center" alt="Power BI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
 </div>
-  
-<h2 align="left">Soft skills:</h2>
-  Ampla experiência em atendimento ao público, onde desenvolvi inteligência emocional. Estou sempre envolvidos em projetos, como agora faço parte do projeto de extensão Introdução a Programação
-
 
 <h2 align="left">Entre em contato:</h2>
 <p align="left">
